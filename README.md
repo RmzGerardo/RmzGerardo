@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+```javascript
 const Gerardo Rmz = {
   code: [Javascript, Typescript, HTML, CSS,Python, C]
   tools: [React, Node,Angular],
@@ -13,6 +13,8 @@ const Gerardo Rmz = {
                       },
 My short-term goal: "to work in a company and be able to develop professionally"
 }
+
+```
 
 <!--
 **RmzGerardo/RmzGerardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
