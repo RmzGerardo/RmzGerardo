@@ -2,7 +2,7 @@
 
 ```javascript
 const Gerardo Rmz = {
-  code: [Javascript, Typescript, HTML, CSS,Python, C]
+  code: [Javascript, Typescript, HTML, CSS,Python, C],
   tools: [React, Node,Angular],
   architecture: ["design system pattern"],
   Other technologies: ["Cisco, BD, electronics and robotics]
