@@ -13,9 +13,13 @@ Además de la escritura de código, mantengo un enfoque integral en el ciclo de 
 </br>
 
 🔧 **Actualmente estoy trabajando en...** la planificación de mi portafolio personal y un proyecto de red social implementando Supabase y React.
+</br>
 💡 **Tengo curiosidad por...** la integración de estéticas de videojuegos retro y pixel-art aplicadas al desarrollo web moderno.
+</br>
 📖 **Actualmente me estoy preparando en...** dominar React con TypeScript para ser un mejor desarrollador integral.
+</br>
 ❄️ **Recientemente lideré...** la reestructuración a tecnologías modernas del proyecto SUGO (Sistema Único de Gestión Operativa).
+</br>
 📫 **Cómo contactarme...** [Tu Correo Electrónico]
 
 <hr>
