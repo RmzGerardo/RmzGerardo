@@ -24,7 +24,7 @@ Además de la escritura de código, mantengo un enfoque integral en el ciclo de 
 
 <hr>
 
-<p><i>Posiblemente no se den cuenta, pero amo JavaScript, me siento comodo y por este motivo decidi usar React para crear un sistema en RTP para ayudar a la gestion operativa de los autobuses.</i></p>
+<p><strong>Posiblemente no se den cuenta, pero amo JavaScript, me siento comodo y por este motivo decidi usar React para crear un sistema en RTP para ayudar a la gestion operativa de los autobuses.</strong></p>
 
 
 </br>
