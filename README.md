@@ -69,8 +69,3 @@ Además de la escritura de código, mantengo un enfoque integral en el ciclo de 
 </td>
     <td>
   
-
-<a href = "[TU_ENLACE_DE_DISCORD]"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a>
-
-</br>
-</br>
