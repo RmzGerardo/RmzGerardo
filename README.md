@@ -1,10 +1,12 @@
 # ¡Hola! 👋, Bienvenido a mi perfil de GitHub
 
  
-<p><i>Soy un desarrollador de software Junior radicado en la CDMX, fuertemente inclinado hacia la ingeniería back-end, la gestión de bases de datos y la lógica de sistemas. Me enfoco en escribir código limpio y estructurado, y disfruto modernizar sistemas heredados hacia arquitecturas más eficientes y escalables. Soy un apasionado por la tecnología, capaz de integrarme bien en equipo, y me encuentro en constante aprendizaje para dominar herramientas de desarrollo modernas.</i></p>
+<p><i>Recientemente concluí una etapa de un año y cinco meses trabajando para la Red de Transporte de Pasajeros (RTP) de la CDMX. Durante mi tiempo allí, me enfoqué en el desarrollo, mantenimiento y modernización de la infraestructura tecnológica de la institución.
 
+Inicié mi labor trabajando con PHP y JavaScript para dar soporte a diversos sistemas legados. Al poco tiempo, con el objetivo de mejorar la escalabilidad y el rendimiento, impulsé y ejecuté una migración hacia tecnologías más robustas, utilizando React con TypeScript para el desarrollo del frontend y Express para construir la lógica del backend. Todo esto respaldado por bases de datos relacionales en PostgreSQL y el uso de Sequelize para optimizar las consultas.
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="15%" align="right" />
+Además de la escritura de código, mantengo un enfoque integral en el ciclo de desarrollo. Llevo un control de versiones riguroso utilizando GitHub y me encargo de automatizar los procesos de despliegue y asegurar la consistencia de los entornos de trabajo mediante el uso de Docker y GitHub Actions..</i></p>
+
 
 ## ⚡🙋‍♂️ Sobre Mí
 
