@@ -4,7 +4,7 @@
 <p><i>Soy un desarrollador de software Junior radicado en la CDMX, fuertemente inclinado hacia la ingeniería back-end, la gestión de bases de datos y la lógica de sistemas. Me enfoco en escribir código limpio y estructurado, y disfruto modernizar sistemas heredados hacia arquitecturas más eficientes y escalables. Soy un apasionado por la tecnología, capaz de integrarme bien en equipo, y me encuentro en constante aprendizaje para dominar herramientas de desarrollo modernas.</i></p>
 
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
 
 ## ⚡🙋‍♂️ Sobre Mí
 
