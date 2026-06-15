@@ -5,7 +5,7 @@
 
 Inicié mi labor trabajando con PHP y JavaScript para dar soporte a diversos sistemas legados. Al poco tiempo, con el objetivo de mejorar la escalabilidad y el rendimiento, impulsé y ejecuté una migración hacia tecnologías más robustas, utilizando React con TypeScript para el desarrollo del frontend y Express para construir la lógica del backend. Todo esto respaldado por bases de datos relacionales en PostgreSQL y el uso de Sequelize para optimizar las consultas.
 
-Además de la escritura de código, mantengo un enfoque integral en el ciclo de desarrollo. Llevo un control de versiones riguroso utilizando GitHub y me encargo de automatizar los procesos de despliegue y asegurar la consistencia de los entornos de trabajo mediante el uso de Docker y GitHub Actions..</i></p>
+Además de la escritura de código, mantengo un enfoque integral en el ciclo de desarrollo. Llevo un control de versiones riguroso utilizando GitHub y me encargo de automatizar los procesos de despliegue y asegurar la consistencia de los entornos de trabajo mediante el uso de Docker y GitHub Actions.</i></p>
 
 
 ## ⚡🙋‍♂️ Sobre Mí
@@ -20,9 +20,11 @@ Además de la escritura de código, mantengo un enfoque integral en el ciclo de 
 </br>
 📫 **Puedes contactarme mediandte correo electronico: lalitomendez132@gmail.com
 
+
+
 <hr>
 
-
+<p><i>Posiblemente no se den cuenta, pero amo JavaScript, me siento comodo y por este motivo decidi usar React para crear un sistema en RTP para ayudar a la gestion operativa de los autobuses.</i></p>
 
 
 </br>
