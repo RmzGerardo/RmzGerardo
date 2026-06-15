@@ -69,22 +69,7 @@ Además de la escritura de código, mantengo un enfoque integral en el ciclo de 
 </td>
     <td>
   
-## 📄📜 Estadísticas
 
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
- </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO]"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&exclude_repo=Portfolio&langs_count=7&layout=compact&bg_color=transparent" />
-</p>
-     
-  </td>
- </tr>
-</table>
-
-</br>
 </br>
 
 ## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;  Calendario de Contribuciones y Radar
