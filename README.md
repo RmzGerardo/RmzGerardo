@@ -65,7 +65,5 @@ Además de la escritura de código, mantengo un enfoque integral en el ciclo de 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
 
-     
-</td>
-    <td>
+
   
