@@ -33,7 +33,7 @@ Además de la escritura de código, mantengo un enfoque integral en el ciclo de 
 <table width="100%" >
 
  <tr>
-    <td width="60%">
+    <td width="80%">
      
 ## 🛠️ Habilidades
 
