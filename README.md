@@ -18,7 +18,7 @@ Además de la escritura de código, mantengo un enfoque integral en el ciclo de 
 </br>
 ❄️ **Recientemente lideré la reestructuración a tecnologías modernas del proyecto SUGO (Sistema Único de Gestión Operativa) en RTP.
 </br>
-📫 **Puedes contactarme mediandte correo electronico: lalitomendez132@gmail.com
+📫 **Puedes contactarme mediante correo electronico: lalitomendez132@gmail.com
 
 
 
